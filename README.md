@@ -1,6 +1,6 @@
 <div align="center">
 
-# William Furtado
+I fear a future where access to critical information systems is decided purely by socioeconomic status. Because of this, I lean toward local-first, offline-capable, and cost-conscious projects.
 
 <p>
 <img src="https://img.shields.io/badge/Focus-Local%20AI-6366f1?style=for-the-badge" alt="Local AI" />
@@ -15,10 +15,6 @@
 </p>
 
 </div>
-
-## About
-
-I fear a future where access to critical information systems is decided purely by socioeconomic status. Because of this, I lean toward local-first, offline-capable, and cost-conscious projects.
 
 ## What I Work On
 
