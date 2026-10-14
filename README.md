@@ -10,8 +10,8 @@
 </p>
 
 <p>
-<a href="https://www.freethought.me"><img src="https://img.shields.io/badge/Website-freethought.me-22c55e?style=for-the-badge" alt="Website" /></a>
-<a href="https://github.com/R0U5"><img src="https://img.shields.io/badge/GitHub-R0U5-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://x.com/williamefurtado"><img src="https://img.shields.io/badge/X-williamefurtado-2e2e2e?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://huggingface.co/R0U5"><img src="https://img.shields.io/badge/Hugging%20Face-R0U5-2e2e2e?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
 </p>
 
 </div>
@@ -73,7 +73,7 @@ Offline transcription, voice companions, quantization helpers, and anything that
 <div align="center">
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<a href="https://huggingface.co/R0U5"><img src="https://img.shields.io/badge/Hugging%20Face-R0U5-2e2e2e?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" /></a><img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
 <img src="https://img.shields.io/badge/Ollama-8250df?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 <img src="https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" />
 
