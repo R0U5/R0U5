@@ -75,8 +75,7 @@ Offline transcription, voice companions, quantization helpers, and anything that
 <div align="center">
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+<a href="https://huggingface.co/R0U5"><img src="https://img.shields.io/badge/Hugging%20Face-R0U5-2e2e2e?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" /></a><img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
 <img src="https://img.shields.io/badge/Ollama-8250df?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 <img src="https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" />
 
