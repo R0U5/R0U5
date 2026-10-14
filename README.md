@@ -2,8 +2,6 @@
 
 # William Furtado
 
-### Building local-first AI systems
-
 <p>
 <img src="https://img.shields.io/badge/Focus-Local%20AI-6366f1?style=for-the-badge" alt="Local AI" />
 <img src="https://img.shields.io/badge/Stack-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
