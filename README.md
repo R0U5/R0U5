@@ -1,8 +1,7 @@
 <div align="center">
 
----
-
-I fear a future where access to critical information systems is decided purely by socioeconomic status. Because of this, I lean toward local-first, offline-capable, and cost-conscious projects.
+### I fear a future where access to critical information systems is decided purely by socioeconomic status. Because of this, I lean toward local-first, offline-capable, and cost-conscious projects.
+<br />
 
 <p>
 <img src="https://img.shields.io/badge/Focus-Local%20AI-6366f1?style=for-the-badge" alt="Local AI" />
@@ -18,9 +17,9 @@ I fear a future where access to critical information systems is decided purely b
 
 </div>
 
----
+<br />
 
-## What I Work On
+## Interests
 
 <table>
 <tr>
@@ -32,7 +31,7 @@ Diffusion pipelines, LoRA fine-tuning, abliteration, transcript generation, mode
 
 </td>
 <td width="50%" valign="top">
-
+  
 ### Agent Systems
 
 Self-improving cognitive architectures, memory and reflection loops, outcome tracking, and the tooling that keeps long-running agents coherent.
@@ -41,14 +40,14 @@ Self-improving cognitive architectures, memory and reflection loops, outcome tra
 </tr>
 <tr>
 <td width="50%" valign="top">
-
+  
 ### Games and Game Tooling
 
 Turn-based tycoon and builder games, plus save editors and server admin tools for the communities around them.
 
 </td>
 <td width="50%" valign="top">
-
+  
 ### Local-First Utilities
 
 Offline transcription, voice companions, quantization helpers, and anything that removes a round trip to someone else's server.
@@ -56,7 +55,6 @@ Offline transcription, voice companions, quantization helpers, and anything that
 </td>
 </tr>
 </table>
-
 
 ## Toolbox
 
@@ -78,7 +76,6 @@ Offline transcription, voice companions, quantization helpers, and anything that
 <img src="https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" />
 
 </div>
-
 
 ## Featured Public Work
 
