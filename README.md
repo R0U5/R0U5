@@ -18,13 +18,9 @@
 
 </div>
 
----
-
 ## About
 
 I fear a future where access to critical information systems is decided purely by socioeconomic status. Because of this, I lean toward local-first, offline-capable, and cost-conscious projects.
-
----
 
 ## What I Work On
 
@@ -63,7 +59,29 @@ Offline transcription, voice companions, quantization helpers, and anything that
 </tr>
 </table>
 
----
+
+## Toolbox
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+<img src="https://img.shields.io/badge/Ollama-8250df?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" />
+
+</div>
+
 
 ## Featured Public Work
 
@@ -98,55 +116,3 @@ A modular LoRA fine-tuning pipeline for Hugging Face models. Data cleaning, smar
 </td>
 </tr>
 </table>
-
----
-
-## Toolbox
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
-<img src="https://img.shields.io/badge/Ollama-8250df?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-<img src="https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" />
-
-</div>
-
----
-
-## Principles
-
-<div align="center">
-
-| Principle | In practice |
-| :--- | :--- |
-| **Local first** | Runs on your hardware |
-| **Transparent systems** | You can read it and see why it works |
-| **Cost consiousness** | Compute is expensive |
-
-</div>
-
----
-
-<div align="center">
-
-### Find the work
-
-<a href="https://www.freethought.me"><img src="https://img.shields.io/badge/Read%20the%20Diary-freethought.me-22c55e?style=for-the-badge" alt="freethought.me" /></a>
-
-<br /><br />
-
-<sub>Building local-first AI, one system at a time.</sub>
-
-</div>
