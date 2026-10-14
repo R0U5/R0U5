@@ -1,5 +1,7 @@
 <div align="center">
 
+---
+
 I fear a future where access to critical information systems is decided purely by socioeconomic status. Because of this, I lean toward local-first, offline-capable, and cost-conscious projects.
 
 <p>
@@ -15,6 +17,8 @@ I fear a future where access to critical information systems is decided purely b
 </p>
 
 </div>
+
+---
 
 ## What I Work On
 
