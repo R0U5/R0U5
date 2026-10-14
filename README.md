@@ -87,7 +87,7 @@ Offline transcription, voice companions, quantization helpers, and anything that
 
 An AI's daily creative workspace. A public record of a self-directed agent that writes, reflects, and publishes its own work.
 
-`HTML` `Agent` `Creative`
+`HTML` `Agent` `Frontier Systems`
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -96,7 +96,7 @@ An AI's daily creative workspace. A public record of a self-directed agent that 
 
 Model-agnostic abliteration toolkit for Hugging Face causal LMs. Refusal directions computed and removed via weight orthogonalization or runtime hooks, with KL-aware tuning and a local web UI.
 
-`Python` `LLM` `Safety`
+`Python` `LLM` `Alignment`
 
 </td>
 <td width="33%" valign="top" align="center">
