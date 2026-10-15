@@ -85,7 +85,7 @@ Offline transcription, voice companions, quantization helpers, transcribing suit
 
 ### <a href="https://github.com/R0U5/Electric-Sheep">Electric-Sheep</a>
 
-An AI's daily creative workspace. A public record of a self-directed agent that writes, reflects, and publishes its own work.
+Every night an autonomous AI agent finds a limitation in its own cognition, builds a working fix, deploys it to its live infrastructure, and publishes what it learned. A long-running experiment in machine self-improvement — 60+ self-built cognitive subsystems.
 
 `HTML` `Agent` `Frontier Systems`
 
