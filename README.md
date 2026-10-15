@@ -34,7 +34,7 @@ Diffusion pipelines, LoRA fine-tuning, abliteration, transcript generation, mode
   
 ### Agent Systems
 
-Self-improving cognitive architectures, memory and reflection loops, outcome tracking, and the tooling that keeps long-running agents coherent.
+Self-improving cognitive architectures, memory and reflection loops, outcome tracking, and agent tooling.
 
 </td>
 </tr>
@@ -50,7 +50,7 @@ Turn-based tycoon and builder games, plus save editors and server admin tools fo
   
 ### Local-First Utilities
 
-Offline transcription, voice companions, quantization helpers, and anything that removes a round trip to someone else's server.
+Offline transcription, voice companions, quantization helpers, transcribing suites and anything else that removes a round trip to someone else's server.
 
 </td>
 </tr>
