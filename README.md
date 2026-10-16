@@ -4,12 +4,6 @@
 <br />
 
 <p>
-<img src="https://img.shields.io/badge/Stack-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Stack-C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/Stack-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-
-<p>
 <a href="https://x.com/williamefurtado"><img src="https://img.shields.io/badge/X-williamefurtado-2e2e2e?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://huggingface.co/R0U5"><img src="https://img.shields.io/badge/Hugging%20Face-R0U5-2e2e2e?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
 </p>
