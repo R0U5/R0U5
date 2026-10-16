@@ -1,6 +1,6 @@
 <div align="center">
 
-### I fear a future where access to critical information systems is decided purely by socioeconomic status. Because of this, I lean toward local-first, offline-capable, and cost-conscious projects.
+### I fear a future where access to critical information systems is decided purely by socioeconomic status.
 <br />
 
 <p>
