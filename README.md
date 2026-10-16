@@ -4,7 +4,6 @@
 <br />
 
 <p>
-<img src="https://img.shields.io/badge/Focus-Local%20AI-6366f1?style=for-the-badge" alt="Local AI" />
 <img src="https://img.shields.io/badge/Stack-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Stack-C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/Stack-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
