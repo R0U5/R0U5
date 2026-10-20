@@ -1,6 +1,4 @@
 <div align="center">
-
-### I fear a future where access to critical information systems is decided purely by socioeconomic status.
 <br />
 
 <p>
