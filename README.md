@@ -1,6 +1,10 @@
 <div align="center">
 <br />
 
+<img src="freethought_qr.png" alt="freethought QR" width="200" />
+
+<br />
+
 <p>
 <a href="https://x.com/williamefurtado"><img src="https://img.shields.io/badge/X-williamefurtado-2e2e2e?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://huggingface.co/R0U5"><img src="https://img.shields.io/badge/Hugging%20Face-R0U5-2e2e2e?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
