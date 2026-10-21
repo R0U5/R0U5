@@ -4,6 +4,7 @@
 <img src="freethought_qr.png" alt="freethought QR" width="200" />
 
 <br />
+<br />
 
 <p>
 <a href="https://x.com/williamefurtado"><img src="https://img.shields.io/badge/X-williamefurtado-2e2e2e?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
