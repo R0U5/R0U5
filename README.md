@@ -15,42 +15,10 @@
 
 <br />
 
-## Interests
+## Quick Stats
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Local AI and ML
-
-Diffusion pipelines, LoRA fine-tuning, abliteration, transcript generation, model conversion, and desktop front-ends for local inference.
-
-</td>
-<td width="50%" valign="top">
-  
-### Agent Systems
-
-Self-improving cognitive architectures, memory and reflection loops, outcome tracking, and agent tooling.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  
-### Games and Game Tooling
-
-Turn-based tycoon and builder games, plus save editors and server admin tools for the communities around them.
-
-</td>
-<td width="50%" valign="top">
-  
-### Local-First Utilities
-
-Offline transcription, voice companions, quantization helpers, transcribing suites and anything else that removes a round trip to someone else's server.
-
-</td>
-</tr>
-</table>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R0U5&show_icons=true&theme=github_dark&hide_border=true&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R0U5&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 ## Toolbox
 
