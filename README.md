@@ -17,8 +17,8 @@
 
 ## Quick Stats
 
-![GitHub Stats](https://pancham-readme-stats.vercel.app/api?username=R0U5&show_icons=true&theme=github_dark&hide_border=true&count_private=false)
-![Top Languages](https://pancham-readme-stats.vercel.app/api/top-langs/?username=R0U5&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+![GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ## Toolbox
 
